@@ -1,0 +1,17 @@
+.questionBox {
+    padding: 5px;
+
+}
+
+.question {
+    background-color: blanchedalmond;
+    box-shadow: 10px 10 plum;
+}
+
+.answerBtn {
+    background-color: aquamarine;
+    margin: 15px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}

@@ -1,0 +1,22 @@
+.nav-img {
+    height: 50px;
+    border-radius: 10px;
+}
+
+nav {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: bisque;
+
+}
+
+.underline {
+    text-rendering: none;
+}
